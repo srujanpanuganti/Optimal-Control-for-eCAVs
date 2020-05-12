@@ -11,5 +11,12 @@ NO. 2, JUNE 2018.`
 * The project also derives the mathematical formulations of the paper
 * This project also reproduces the theoritical results of the paper 
 
+<p align="center">
+<img src="images/SystemModel.JPG" alt="SysMod" width="480">
+</p>
+<p align="center">
+<em>System Model</em>
+</p>
+
 ## Results
 The results of this project can be viewed here `report/ENPM667 Final Report Project1.pdf`
