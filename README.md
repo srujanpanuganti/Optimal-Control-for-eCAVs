@@ -11,6 +11,8 @@ NO. 2, JUNE 2018.`
 * The project also derives the mathematical formulations of the paper
 * This project also reproduces the theoritical results of the paper 
 
+## System Model
+
 <p align="center">
 <img src="images/SystemModel.JPG" alt="SysMod" width="480">
 </p>
